@@ -10,5 +10,6 @@ this the sample webproject for practice
 this example is to different parts of the github
 ### copyright
 added a copyright session 
+please fork this repositor and then issue pull request
 
 Sample website with plenty of files for demos
