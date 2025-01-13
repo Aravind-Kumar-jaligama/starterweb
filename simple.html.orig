@@ -1,0 +1,16 @@
+
+<!DOCTYPE html>
+<!-- Copyright Git.practicing -->
+<html>
+<head>
+<title>A very respectable website</title>
+</head>
+<body>
+<p> hello world</p>
+<<<<<<< HEAD
+
+=======
+<P>Copyright@mw</p>
+>>>>>>> realwork
+</body>
+</html>
