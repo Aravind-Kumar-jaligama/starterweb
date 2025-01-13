@@ -8,5 +8,7 @@ This repository is for showing how Git and GitHub work
  As started above , the main purpose is to provide simple example for git training
 this the sample webproject for practice
 this example is to different parts of the github
+### copyright
+added a copyright session 
 
 Sample website with plenty of files for demos
